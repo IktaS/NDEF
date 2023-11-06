@@ -1,7 +1,7 @@
 {
-  "name": "NDEF_MFRC522",
-  "version": "1.0.0",
-  "description": "Read and write NDEF messages to NFC tags and peers. Ported to the MFRC522 reader.",
+  "name": "NDEF_MFRC522v2",
+  "version": "1.0.1",
+  "description": "Read and write NDEF messages to NFC tags and peers. Ported to the MFRC522v2 library.",
   "keywords": "ndef, mfrc522, rfid",
   "repository": {
     "type": "git",
